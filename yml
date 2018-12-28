@@ -1,0 +1,4 @@
+formatting:
+  from-game:
+    chat: '(%sender%) %message%'
+    action: '* %sender% %message%'
